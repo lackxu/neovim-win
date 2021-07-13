@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='C:/Users/Ju-L/Desktop/rust/src'
+let g:netrw_dirhist_9='C:\Users\Ju-L\Desktop\rust'
+let g:netrw_dirhist_8='C:\Windows\System32'
+let g:netrw_dirhist_7='C:/Users/Ju-L/Documents/noteman'
+let g:netrw_dirhist_6='C:\Users\Ju-L\Documents\noteman\frontend'
+let g:netrw_dirhist_5='C:\Users\Ju-L\Desktop\vue-js-base-project'
+let g:netrw_dirhist_4='/mnt/d/Documents/noteman/frontend'
+let g:netrw_dirhist_3='/mnt/d/Documents/noteman'
+let g:netrw_dirhist_2='/mnt/d/Documents/noteman/frontend'
+let g:netrw_dirhist_1='/mnt/d/Documents/noteman'
